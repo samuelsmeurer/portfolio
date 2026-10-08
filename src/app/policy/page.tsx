@@ -6,7 +6,7 @@ export const metadata: Metadata = {
 };
 
 const LAST_UPDATED = "October 8, 2026";
-const CONTACT_EMAIL = "s.schramm@eldorado.io";
+const CONTACT_EMAIL = "samuelsmeurer@gmail.com";
 
 export default function PrivacyPolicy() {
   return (
